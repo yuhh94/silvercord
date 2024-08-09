@@ -1,0 +1,28 @@
+/**
+  * @name AyfrostxSlayerTheme
+  * @author AyfrostxSlayer
+  * @version AyfrostxSlayerThemeV3
+  * @description theme discord tah les fous by ayfrostxslayer
+  * @authorId 767361315156262922
+  * @authorLink https://ayfrostxslayer.com
+  * @source https://github.com/ayfrostxslayer/AyfrostxSlayerThemeV3
+  * @website https://ayfrostxslayerTHEME.com
+  * @invite ayfrstxslayr
+*/
+
+@import url('https://devevil99.github.io/devevil/BetterDiscordAddons/Theme/Dark+/Dark+.theme.css');
+
+:root {
+  --darkplus-bg: #212121;
+  --darkplus-bg2: #302f2f;
+  --darkplus-sec: #bb86fc;
+  --darkplus-links: #cdaef3;
+  --darkplus-home-icon: url(https://devevil.com/betterdiscord/dark%2b-logo.png);
+ --watermark-filter-invert: 0%;
+  --watermark-filter-sepia: 50%;
+  --watermark-filter-saturate: 3000%;
+  --watermark-filter-hue-rotate: 210deg;
+  --watermark-filter-brightness: 70%;
+  --watermark-filter-contrast: 200%;
+  --darkplus-emoji-picker-color: 210deg;
+}
